@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yogapriya-RS
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning MERN STACK Developer course
 - 📫 How to reach me --> yogasubramani1808@gmail.com
 
